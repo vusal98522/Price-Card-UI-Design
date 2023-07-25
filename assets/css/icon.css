@@ -1,0 +1,14 @@
+.text-one::before {
+    content: url(../icons/checked.svg);
+    width: 35px;
+    height: 35px;
+    background-color: #d5dce7;
+    border-radius: 999px;
+}
+.text-two::before {
+    content: url(../icons/checked.svg);
+    width: 35px;
+    height: 35px;
+    background-color: #d5dce7;
+    border-radius: 999px;
+}
