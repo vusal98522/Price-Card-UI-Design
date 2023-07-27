@@ -12,3 +12,10 @@
     background-color: #d5dce7;
     border-radius: 999px;
 }
+.search::before {
+    content: url(../icons/search.svg);
+    width: 28px;
+    height: 28px;
+    
+
+}
